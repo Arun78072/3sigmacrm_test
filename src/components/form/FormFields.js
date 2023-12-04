@@ -97,6 +97,9 @@ const Root = styled.div`
       display: flex;
       gap: 4px;
       justify-content: center;
+      >img{
+        cursor: pointer;
+      }
     }
   }
 
